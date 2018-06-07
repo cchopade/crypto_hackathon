@@ -1,1 +1,1 @@
-# cypto_hackathon
+# Coinberg Cryptocurrency Hackathon
