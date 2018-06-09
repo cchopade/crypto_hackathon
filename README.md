@@ -20,10 +20,12 @@ This is an attempt to create a sentiment index for Bitcoin. This sentiment index
 
 ### Methoodology
 
-- **Momentum**: Momentum is calculated as <img src='images/momentum.gif'>
+- **Momentum**: Momentum is calculated as
+ <img src='images/momentum.gif'>
 
 
-- **Implied Volatility**: Volatility Index is calculated using forecasted volatility using GARCH(1,1) model. Forecast for next 24 periods of volatility is made and calculated as <img src='images/vix.gif'>
+- **Implied Volatility**: Volatility Index is calculated using forecasted volatility using GARCH(1,1) model. Forecast for next 24 periods of volatility is made and calculated as
+ <img src='images/vix.gif'>
 
   Refrence: Hao, J., & Zhang, J. E. (2013). GARCH option pricing models, the CBOE VIX, and variance risk premium. Journal of Financial Econometrics, 11(3), 556-580.
 
