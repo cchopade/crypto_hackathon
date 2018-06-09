@@ -1,10 +1,10 @@
 # Coinberg Cryptocurrency Hackathon
 
 ## Bitcoin Fear & Greed Index
-***
+
 
 ### Introduction
-***
+
 This is an attempt to create a sentiment index for Bitcoin. This sentiment index can be used for the purpose of trading into bitcoins and also as an indicator of overall mood. I have broadly divided the components of this index in two categories as follows.
 
 **Market Sentiment**
@@ -19,7 +19,7 @@ This is an attempt to create a sentiment index for Bitcoin. This sentiment index
  - Reddit
 
 ### Methoodology
-***
+
 - **Momentum**: Momentum is calculated as $\frac{90dEMA - 30dEMA}{90dEMA}$
 
 
